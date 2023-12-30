@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazen712" alt="mazen712" /></a> </p>
 
-- 🔭 I’m currently working on **AI security model**
+- 🔭 I’m currently working on **AI security model.**
 
 - 🌱 I’m currently learning **React, Mongo DB, js & more...**
 
-- 💬 Ask me about **Cyber Security, Ethical Hacking, Dark Web Scarpping**
+- 💬 Ask me about **Cyber Security, Ethical Hacking, Dark Web Scarpping  & more...**
 
 - 📫 How to reach me **mazenkhan0202@outlook.in**
 
