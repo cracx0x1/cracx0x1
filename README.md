@@ -55,3 +55,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - Detection Lab
 - SOC Automation Project
+- AI-Powered-precision-Irrigation-System
