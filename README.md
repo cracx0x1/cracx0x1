@@ -1,8 +1,7 @@
 # Hello, I'm MAZEN KHAN
 <a href="https://www.linkedin.com/in/mazen-khan/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@mazenpathan72002"><img src="https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-<img src="https://tryhackme-badges.s3.amazonaws.com/cracx.png" alt="Your Image Badge" />
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3480051" style='border:none;'></iframe>
+
 
 
 
