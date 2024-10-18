@@ -21,8 +21,16 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
+## Tools & Scripts
 
+<div>
+    <img src="https://img.shields.io/badge/-Nmap-1679A7?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-EF3B2D?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQLmap-777BB4?&style=for-the-badge&logo=SQLmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-BurpSuite-1679A7?&style=for-the-badge&logo=BurpSuite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SET-EF3B2D?&style=for-the-badge&logo=SET&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hydra-777BB4?&style=for-the-badge&logo=Hydra&logoColor=white" />
+</div>
 
 ### Network
 <div>
