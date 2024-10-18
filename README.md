@@ -1,5 +1,7 @@
 # Hello, I'm MAZEN KHAN
 <a href="https://www.linkedin.com/in/mazen-khan/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://https://medium.com/@mazenpathan72002"><img src="https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+
 
 
 I am a grad student with a profound interest in technology and a dedication to solving CTF's.
